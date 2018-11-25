@@ -12,7 +12,7 @@ CORS(app)
 
 def predict():
     """
-    Ini Adalah Endpoint Untuk Memprediksi IRIS
+    Ini Adalah Endpoint Untuk Memprediksi Kategori
     ---
     tags:
         - Rest Controller
