@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SGDClassifier-api.iml" filepath="$PROJECT_DIR$/.idea/SGDClassifier-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SGDClassifier.iml" filepath="$PROJECT_DIR$/.idea/SGDClassifier.iml" />
     </modules>
   </component>
 </project>

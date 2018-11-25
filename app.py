@@ -12,7 +12,7 @@ CORS(app)
 
 def predict():
     """
-    Ini Adalah Endpoint Untuk Memprediksi Kategori
+    Tes
     ---
     tags:
         - Rest Controller
@@ -38,7 +38,7 @@ def predict():
     teksArtikel = new_task['teksArtikel']
 
 
-    X_New = np.array([[teksArtikel]])
+    X_New = teksArtikel
 
     clf = joblib.load('SGDClassifier.pkl')
 
